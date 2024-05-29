@@ -26,7 +26,7 @@ This analysis underscores the importance of personalized strategies in reducing 
 - **DAX (Data Analysis Expressions) :-** Utilized in Power BI for data modeling and complex calculations.
 
 # DashBoard Vedio :-
-
+https://github.com/MyProjects-5/Tour_and_Travel_Customer_Churn-Dashboard/assets/140932670/e8cb4b6d-5aa5-411c-9d9d-e4a5896b3778
 
 # Screenshot of the Analysis :-
 ![Screenshot 2024-05-29 101811](https://github.com/MyProjects-5/Tour_and_Travel_Customer_Churn-Dashboard/assets/140932670/3f107bd8-614d-4db4-a1d5-ab2f1d4491d4)
