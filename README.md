@@ -5,16 +5,22 @@
 This repository contains an analysis of factors influencing customer churn in the tour and travel industry. The analysis focuses on frequent flyers, service preferences, and demographic insights, aiming to predict customer churn and retention trends.
 
 ## **Objective :-**
+
 The primary objective of this analysis is to identify key factors that contribute to customer churn and retention, providing actionable insights to enhance customer retention strategies in the tour and travel industry.
 
 
 ## 📌 Key Features :-
 
-- **Interactive Dashboards :-** Users can interact with various dashboards to get detailed insights into unemployment data.
-- **State-wise Analysis :-** Provides a granular view of unemployment statistics across different Indian states.
-- **Demographic Insights :-** Examines unemployment rates segmented by rural and urban areas.
-- **Time Series Analysis :-** Highlights trends and changes in unemployment over specific periods.
-- **Customizable Filters :-** Allows users to apply filters and drill down into specific data segments for deeper analysis.
+- **Frequent Flyer Count by Age :-** Visualization of the distribution of frequent flyers across different age groups, highlighting key demographics.
+- **Service Opted by Age :-** Analysis of the correlation between age groups and service preferences, identifying popular services among different age brackets.
+- **Service Opted and Customer by Annual Income Class :-** Insights into how service preferences vary across different annual income classes.
+- **Hotel Booking Preferences :-** Patterns in customer hotel booking choices, guiding targeted marketing strategies.
+- **Target Count Analysis :-** Breakdown of customers likely to churn versus those expected to stay, aiding in focused retention efforts.
+- **Account Synced to Social Media :-** Examination of the impact of social media engagement on customer retention.
+- **Target Customers and Total Customer Count :-** Comparative analysis to identify at-risk customers and evaluate retention strategy effectiveness.
+- **Filtered Analysis by Age :-** Detailed insights into age-specific trends and behaviors through segmented data analysis.
+
+
 
 ## 📌 Conclusion :-
 
