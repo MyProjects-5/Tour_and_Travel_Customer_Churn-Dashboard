@@ -29,7 +29,6 @@ This analysis underscores the importance of personalized strategies in reducing 
 ## 🛠️ Tools Used :-
 
 - **Power BI :-** For creating interactive data visualizations and dashboards.
-- **Excel/CSV :-** For data preprocessing, cleaning, and initial analysis.
 - **DAX (Data Analysis Expressions) :-** Utilized in Power BI for data modeling and complex calculations.
 
 # DashBoard Vedio :-
