@@ -6,7 +6,9 @@ This repository contains an analysis of factors influencing customer churn in th
 
 ## **Objective :-**
 
-The primary objective of this analysis is to identify key factors that contribute to customer churn and retention, providing actionable insights to enhance customer retention strategies in the tour and travel industry.
+The primary objectives of this project are :- 
+- To identify key factors that contribute to customer churn and retention. 
+- Providing actionable insights to enhance customer retention strategies in the tour and travel industry.
 
 
 ## 📌 Key Features :-
